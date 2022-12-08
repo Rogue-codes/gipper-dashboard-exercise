@@ -17,6 +17,7 @@ const Container = styled.button`
     height: 8vh;
     border-radius: 25px;
     border: none;
+    cursor: pointer;
     color: #fff;
     background: var(--main-bg-color);
 `

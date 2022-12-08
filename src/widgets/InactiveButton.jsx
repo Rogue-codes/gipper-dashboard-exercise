@@ -15,6 +15,7 @@ const Container = styled.button`
     width: 80%;
     height: 8vh;
     border-radius: 22px;
+    cursor: pointer;
     border: none;
     background: grey;
     color: white;
