@@ -181,7 +181,7 @@ const Container = styled.main`
   section {
     @media (max-width: 768px) {
       flex-direction: column;
-      width: 90%;
+      width: 95%;
       margin: auto;
       height: auto;
     }
