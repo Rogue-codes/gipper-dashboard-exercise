@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { IoMdNotifications } from "react-icons/Io";
+import { IoMdNotifications } from "react-icons/io";
 import { profile } from "../../assets/data";
 function Nav() {
   return (
